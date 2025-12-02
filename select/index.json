@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "DINDON",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T11:31:39.790149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Le dindon",
+      "artist": "Hippocampe Fou",
+      "has_synced": true,
+      "path": "select/01_Le_dindon_Hippocampe_Fou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Le Dindon",
+      "artist": "Richard Gotainer",
+      "has_synced": true,
+      "path": "select/02_Le_Dindon_Richard_Gotainer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Le dindon dingue",
+      "artist": "Laurent Lahaye feat. Emmanuel Watine & Marie Singer",
+      "has_synced": true,
+      "path": "select/03_Le_dindon_dingue_Laurent_Lahaye_feat._Emmanuel_Watine_&_Marie_Singer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Le dindon dingue",
+      "artist": "Laurent Lahaye",
+      "has_synced": true,
+      "path": "select/04_Le_dindon_dingue_Laurent_Lahaye.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Le dindon dingue",
+      "artist": "Lahaye, Laurent feat. Emmanuel Watine & Marie Singer",
+      "has_synced": true,
+      "path": "select/05_Le_dindon_dingue_Lahaye,_Laurent_feat._Emmanuel_Watine_&_Marie_Singer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dindon Dindon",
+      "artist": "Laís",
+      "has_synced": true,
+      "path": "select/06_Dindon_Dindon_Laís.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DINDON",
+      "artist": "NEE",
+      "has_synced": true,
+      "path": "select/07_DINDON_NEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DINDON",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_DINDON_NEE.txt"
+    }
+  ]
+}
